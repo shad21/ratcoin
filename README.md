@@ -1,0 +1,4 @@
+ratcoin
+=======
+
+Responsive website
